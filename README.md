@@ -9,5 +9,7 @@ The ACM Java library, `HangmanLexicon.txt` dictionary, and starter code are sour
 2. For Windows, run `java -cp ".;acm.jar" Hangman` to play the game.  
 For Unix, run `java -cp .:acm.jar Hangman`.
 
-## Screenshot
-![](screenshot.png)
+## Screenshot of Demo Play
+<div align="center">
+    <img src="screenshot.png" width="700">
+</div>
