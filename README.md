@@ -8,3 +8,6 @@ The ACM Java library, `HangmanLexicon.txt` dictionary, and starter code are sour
 1. Run `javac -cp acm.jar HangmanCanvas.java Hangman.java` to compile.
 2. For Windows, run `java -cp ".;acm.jar" Hangman` to play the game.  
 For Unix, run `java -cp .:acm.jar Hangman`.
+
+## Screenshot
+![](screenshot.png)
